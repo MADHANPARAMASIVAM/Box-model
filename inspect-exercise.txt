@@ -1,1 +1,2 @@
 https://appbrewery.github.io/css-inspection/
+https://appbrewery.github.io/css-display/
